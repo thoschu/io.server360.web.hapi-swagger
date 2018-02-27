@@ -1,0 +1,27 @@
+{
+  "name": "io.server360.web.hapi-swagger",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoschu/io.server360.web.hapi-swagger.git"
+  },
+  "author": "Tom S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoschu/io.server360.web.hapi-swagger/issues"
+  },
+  "homepage": "https://github.com/thoschu/io.server360.web.hapi-swagger#readme",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "hapi-swagger": "^7.9.1",
+    "inert": "^4.2.1",
+    "joi": "^13.1.2",
+    "vision": "^4.1.1"
+  }
+}
