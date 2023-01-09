@@ -19,7 +19,7 @@
   "homepage": "https://github.com/thoschu/io.server360.web.hapi-swagger#readme",
   "dependencies": {
     "hapi": "^16.6.2",
-    "hapi-swagger": "^7.9.1",
+    "hapi-swagger": "^9.0.0",
     "inert": "^4.2.1",
     "joi": "^13.1.2",
     "vision": "^4.1.1"
